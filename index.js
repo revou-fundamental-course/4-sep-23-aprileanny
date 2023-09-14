@@ -41,3 +41,9 @@ function HitungKeliling() {
         document.getElementById("hasilKeliling").textContent = "Masukkan angka yang valid.";
     }
 }
+
+function Ulang() {
+    // Mengosongkan input dan hasil
+    document.getElementById("InputLuas").value = "";
+    document.getElementById("InputKeliling").value = "";
+}
