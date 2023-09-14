@@ -45,5 +45,5 @@ function HitungKeliling() {
 function Ulang() {
     // Mengosongkan input dan hasil
     document.getElementById("InputLuas").value = "";
-    document.getElementById("InputPersegi").value = "";
+    document.getElementById("InputKeliling").value = "";
 }
