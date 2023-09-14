@@ -47,3 +47,4 @@ function Ulang() {
     document.getElementById("InputLuas").value = "";
     document.getElementById("InputKeliling").value = "";
 }
+
